@@ -835,6 +835,27 @@ nav > ul {
   }
 }
 
+#rack-vs-cage > iframe {
+    max-width: 560px;
+    width: 100%;
+    display: block;
+}
+#rack-vs-cage{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+    iframe {
+        border-width: 2px;
+        border-style: inset;
+        border-color: initial;
+        border-image: initial;
+        display: flex;
+        justify-content: center;
+
+    }
+
 #Our-Mission{
   display: block;
   text-align: center;
